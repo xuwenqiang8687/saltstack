@@ -1,0 +1,3 @@
+saltstack剧本搭建salt-minion
+
+注意更改minion文件指定master的IP
